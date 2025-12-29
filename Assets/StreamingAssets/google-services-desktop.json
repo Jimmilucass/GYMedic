@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "571148835961",
+    "firebase_url": "https://gy-medic.firebaseio.com",
+    "project_id": "gy-medic",
+    "storage_bucket": "gy-medic.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:571148835961:android:abfdaaa319940a81",
+        "android_client_info": {
+          "package_name": "com.ader.gymedic"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "571148835961-h30e3a2j0fpcq4ok5a03vrr12dtsr8p4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAObTxx6jgpVcL5iU-IZblxadPYpZtYFF0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "571148835961-h30e3a2j0fpcq4ok5a03vrr12dtsr8p4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
